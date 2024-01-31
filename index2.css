@@ -1,0 +1,121 @@
+@media screen and (max-width: 480px) {
+
+    .homeBio {
+        padding: 4vh;
+    }
+
+    .homeBio h1 {
+        font-size: 9.5vw;
+
+    }
+
+    .homeBio p {
+        font-size: 4vw;
+    }
+
+    .homeBio button {
+        font-size: 12px;
+
+    }
+
+    .contact-img img {
+        margin-top: 25px;
+    }
+
+    .para-1 {
+
+        font-size: 1.2rem;
+    }
+}
+
+@media (min-width: 481px)and (max-width: 577px) {
+
+
+    .homeBio {
+
+        padding-top: 5vh;
+    }
+
+
+    .homeBio h1 {
+        font-size: 9.5vw;
+
+    }
+
+    .homeBio p {
+        font-size: 3.6vw;
+    }
+
+    .contact-img img {
+        margin-top: 25px;
+    }
+}
+
+
+@media (min-width: 578px) and (max-width: 900px) {
+
+
+    .homeBio {
+        padding-top: 8vh;
+    }
+
+    .homeBio h1 {
+        font-size: 4.3vw;
+
+    }
+
+    .homeBio p {
+        padding-top: 2px;
+        font-size: 1.2vw;
+    }
+
+    .contact-img img {
+        margin-top: 25px;
+    }
+
+
+}
+
+@media (min-width: 901px)and (max-width: 1293px) {
+
+
+    .homeBio h1 {
+        font-size: 4.5vw;
+
+    }
+
+    .homeBio p {
+        font-size: 1.6vw;
+    }
+
+    .homeBio {
+        padding: 33px 0px 0px 0px;
+    }
+
+    .homeBio button {
+        font-size: 16px;
+    }
+
+}
+
+@media (min-width: 768px)and (max-width: 1220px) {
+    .about img {
+        padding-top: 4rem;
+
+    }
+
+    .contact-img img {
+
+        padding-top: 3rem;
+    }
+
+    .para-1 {
+        font-weight: 400;
+        font-size: 1rem;
+    }
+
+    .para-2 {
+        font-size: 20px;
+
+    }
+}

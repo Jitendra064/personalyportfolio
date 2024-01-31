@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+/* this is the navbar css  */
+
+
+nav {
+    box-shadow: 0px 1px 33px #8ba28b;
+
+    background-color: #ffffffa8;
+}
+
+
+.nav-item a {
+    color: #5fab87;
+    font-size: large;
+}
+
+.nav-item a:hover {
+    color: #3a7d5d;
+}
+
+
+/* home css  */
+
+.home img {
+    width: 500px;
+    border-radius: 6px;
+}
+
+
+.homeBio {
+    padding: 53px 0px 0px 0px;
+}
+
+.homeBio h1 {
+    font-family: Roboto, sans-serif;
+    position: relative;
+    font-weight: 700;
+    font-size: 4rem;
+    color: #2c3f0a;
+
+
+}
+
+
+
+
+.homeBio h1 span {
+    color: #ed0f0f;
+}
+
+#saon {
+    color: #25310f;
+}
+
+.homeBio p {
+    font-size: 1.4vw;
+}
+
+.homeBio button {
+
+    background-color: #223107e7;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+
+}
+
+.homeBio button:hover {
+    background-color: #243408;
+    color: #fff;
+}
+
+
+.card01 {
+    background-color: rgb(202 195 195);
+}
+
+
+/* card over images  */
+.card03 {
+    border: 3px solid;
+
+}
+
+
+
+/* certifiacte  */
+.cerficate {
+    font-weight: 700;
+    font-size: 38px;
+    color: #250101;
+    padding: 7px 0px 12px 0px;
+    background-color: #dacbcb
+}
+
+.cont-img img {
+    padding: 10px 0px 10px 0px;
+    transition: all 0.6s ease-in;
+}
+
+.cont-img img:hover {
+    transform: scale(1.05);
+    overflow: hidden;
+}
+
+
+/* about  */
+.about img {
+    border-radius: 10px;
+}
+
+.about-cls {
+    font-weight: 600;
+
+    font-size: 1.5rem;
+    color: #250101;
+}
+
+.para-1 {
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.para-2 {
+    font-weight: 500;
+    font-size: 26px;
+    color: #6d6767
+}
+
+.para-3 {
+    color: #a29c9c;
+    font-weight: bolder;
+}
+
+
+/* contact page  */
+.cont-heading {
+    font-weight: 600;
+
+    font-size: 1.5rem;
+    color: #250101;
+}
+
+.formContainer {
+    margin: 4rem 0px 3rem 0px;
+}
+
+.contact-img img {
+    border-radius: 10px;
+
+
+}
