@@ -64,7 +64,7 @@ nav {
     font-size: 1.4vw;
 }
 
-.homeBio button {
+.homeBio a {
 
     background-color: #223107e7;
     color: #fff;
@@ -73,7 +73,7 @@ nav {
 
 }
 
-.homeBio button:hover {
+.homeBio a:hover {
     background-color: #243408;
     color: #fff;
 }
