@@ -1,5 +1,5 @@
 var typed = new Typed(".multitask", {
-  strings: ["React developer", " Web designer" , "Web deployment"],
+  strings: ["React developer",  " Web designer","MERN Stack" , "Web deployment"],
   loop: true,
   typeSpeed: 100,
   backSpeed: 80,
